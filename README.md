@@ -54,7 +54,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Usage Instructions
 
-N/A
+[Walkthrough Video](https://drive.google.com/file/d/1AkKs4aSHLseOXQ7r5KdJfjB5aAQJICwB/view?usp=sharing)
 
 ## Deployed Application Link:
 
